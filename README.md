@@ -24,12 +24,12 @@ A modern, interactive AI-powered chatbot focused on climate change education and
 
 1. Clone the repository
 ```bash
-git clone https://github.com/LeviNjoroge/ClimateChangeAI
+git clone https://github.com/LeviNjoroge/ClimateConnectAI
 ```
 
 2. Install dependencies
 ```bash
-cd ClimateChangeAI
+cd ClimateConnectAI
 npm install
 ```
 
